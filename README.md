@@ -1,6 +1,6 @@
-# Data-Analytics-Portfolio
+# First Project : Customer Demographics Analysis Dashboard for Banking Insights Using Power BI
 Work Examples
-**First Project : Customer Demographics Analysis Dashboard for Banking Insights Using Power BI**
+
 Crafted a Customer Demographics Analysis Dashboard for a bank using Power BI. Examined customer data including geographic distribution, gender, marital status, educational qualifications, and job types. The insights provided informed targeted marketing strategies and personalized services.
 <img width="619" alt="Screenshot 2023-11-22 200318" src="https://github.com/Aakashsingh85/Data-Analytics-Portfolio/assets/124227750/684a1a12-96b3-42c9-bff1-c9e580eb1e67">
 
