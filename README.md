@@ -40,3 +40,16 @@ Tasks Completed
   
 <img width="650" alt="Screenshot 2023-11-21 195410" src="https://github.com/Aakashsingh85/Data-Analytics-Portfolio/assets/124227750/944e6984-93ca-46ac-b29b-20aec9cfd345">
  data visualization for improved decision-making.
+
+
+# 4. Order Shortage Root Cause Analysis
+ 
+<img width="580" alt="Screenshot 2023-11-24 232650" src="https://github.com/Aakashsingh85/Data-Analytics-Portfolio/assets/124227750/483ae26f-22fa-4133-9111-427af6dd1f1e">
+
+
+ # 5. Corona Dataset Analysis
+ 1 in Province/State made up 28.57% of Sum of Confirmed.﻿﻿ ﻿﻿ ﻿﻿At 5694069, US had the highest Sum of Deaths and was 1,060.01% higher than Mainland China, which had the lowest Sum of Deaths at 490864.﻿﻿ ﻿﻿ ﻿﻿US accounted for 32.61% of Sum of Deaths.﻿﻿ ﻿ ﻿﻿Across all 10 Country/Region, Sum of Deaths ranged from 490864 to 5694069.
+
+<img width="755" alt="Screenshot 2023-11-25 002742" src="https://github.com/Aakashsingh85/Data-Analytics-Portfolio/assets/124227750/7b10a8ad-aef4-4122-b885-51adc135388f">
+
+ 
